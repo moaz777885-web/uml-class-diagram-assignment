@@ -1,7 +1,9 @@
 # Library Management System — UML Class Diagram Assignment
 
-**Institution:** Kigali Independent University (ULK)
-**Instructor:** Eric Maniraguha
+**Institution:** Kigali Independent University (ULK)   
+
+**Instructor:** Eric Maniraguha    
+
 **Group members:** 
 
 | # | Name | Student ID |
