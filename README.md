@@ -2,7 +2,7 @@
 
 **Institution:** Kigali Independent University (ULK)
 **Instructor:** Eric Maniraguha
-**Group members:**
+**Group members:** 
 
 | # | Name | Student ID |
 |---|------|------------|
